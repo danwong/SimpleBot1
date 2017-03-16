@@ -1,3 +1,6 @@
+import sys
+sys.path.append("../../Git/gym")
+sys.path.append("../../Git/universe")
 import gym
 import universe
 
